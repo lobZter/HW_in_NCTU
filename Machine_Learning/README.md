@@ -1,7 +1,7 @@
 # Machine Learning / Fall 2017 / NCTU CS
 
 - HW1  
-Regularized Linear Model
+    - Regularized Linear Model
 - HW2
     - Naive Bayes classifier
     - Online learning
