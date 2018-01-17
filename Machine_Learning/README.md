@@ -12,3 +12,13 @@
 - HW4
     - Logistic Regression
     - EM algorithm
+- HW5
+    - k-means
+    - kernel k-means
+    - spectral clustering
+- HW6
+    - PCA
+    - soft-margin SVM
+- HW7
+    - symmetric sne
+    - t-sne
